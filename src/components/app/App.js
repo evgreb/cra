@@ -19,7 +19,7 @@ class App extends Component {
                         </Link>
                         <Link to={ABOUT}>
                             <Button color="white">
-                                About
+                                Hello
                             </Button>
                         </Link>
                     </Toolbar>
